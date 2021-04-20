@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: postgres:latest
+    container_name: postgres-container
+    ports:
+      - 5432:5432/tcp
+    restart: always
+    environment:
+      POSTGRES_DB: tally_dev
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - /var/lib/postgres
+      - ./dbscripts/postgres:/docker-entrypoint-initdb.d
