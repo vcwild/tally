@@ -9,6 +9,8 @@ defmodule TallyWeb.Router do
     pipe_through :api
 
     get "/", WelcomeController, :index
+
+    post "/restaurants", RestaurantsController, :create
   end
 
   # Enables LiveDashboard only for development
