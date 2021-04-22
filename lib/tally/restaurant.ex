@@ -11,6 +11,7 @@ defmodule Tally.Restaurant do
   schema "restaurants" do
     field :email, :string
     field :name, :string
+    has_many :supplies, Tally.Supply
     timestamps()
   end
 
