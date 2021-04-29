@@ -1,9 +1,10 @@
 <p align="center">
-    <img src=".github/tally.png" width="250px" />
+    <img src=".github/tally.svg" width="200px" />
     <br/>
-    <img src="https://img.shields.io/github/languages/count/vcwild/tally?color=%2300DE96&style=flat-square" alt="languages" />
-    <img src="https://img.shields.io/github/license/vcwild/tally?color=%2300DE96&style=flat-square" alt="license" />
-    <img src="https://img.shields.io/github/repo-size/vcwild/tally?color=%2300DE96&style=flat-square" alt="repo size" />
+    <br/>
+    <img src="https://img.shields.io/github/languages/count/vcwild/tally?color=%23FBC86D&style=flat-square" alt="languages" />
+    <img src="https://img.shields.io/github/license/vcwild/tally?color=%23FBC86D&style=flat-square" alt="license" />
+    <img src="https://img.shields.io/github/repo-size/vcwild/tally?color=%23FBC86D&style=flat-square" alt="repo size" />
 </p>
 
 # Tally
