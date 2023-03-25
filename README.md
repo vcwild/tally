@@ -122,4 +122,4 @@ mix archive.install hex phx_new 1.5.7\
 ```
 
 ## License
-Distributed under the GPL 2.0 License. See [LICENSE](/LICENSE) for more information.
+Distributed under the GPL 3. License. See [LICENSE](/LICENSE) for more information.
