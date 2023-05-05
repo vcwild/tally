@@ -9,7 +9,9 @@
 
 # Tally
 
-Tally is an application for restaurant inventory management. It is a mailing system that warns restaurant managers when a resource due date is about to expire. Created with [Phoenix](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.New.html), [Ecto](https://hexdocs.pm/ecto/), and a dockerized [Postgres](https://www.postgresql.org/) database.
+Tally is an application for restaurant inventory management.
+
+It is a mailing system that warns restaurant managers when a resource due date is about to expire. Created with [Phoenix](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.New.html), [Ecto](https://hexdocs.pm/ecto/), and a dockerized [Postgres](https://www.postgresql.org/) database.
 
 ## Table of Contents
 
